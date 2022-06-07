@@ -14,7 +14,7 @@ edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` 
 ### Configuration de métadonnées
 # Métadonnées de description <300 caratères, et d'auteur pour toutes les pages du site 
 site_description: Site pour repertorier tous les notebooks utilisés durant cet année de première
-site_author: "Eric MADEC"
+site_author: "maceo9"
 
 ### Configuration de la stucture de navigation
 # Dossier source, chemin relatif au fichier mkdocs.yml
@@ -22,7 +22,10 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - La page d'accueil : index.md
-  - Un notebook jupyter : Notebook.ipynb, 3.5_Tableau Python Binaire.ipynb, Algorithmique-Complexite.ipynb, BBCmicrobit-Un-BN-Pour-MicroPython(1)(1).ipynb
+  - Un notebook jupyter : Notebook.ipynb
+  3.5_Tableau Python Binaire.ipynb
+  Algorithmique-Complexite.ipynb
+  BBCmicrobit-Un-BN-Pour-MicroPython(1)(1).ipynb
   Fonction Macéo Quéran.ipynb
   Hexadecimal-Autre_BN_pour_coder 3.ipynb
   IHM_Web_Dynamique.ipynb
