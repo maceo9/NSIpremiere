@@ -22,10 +22,7 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - La page d'accueil : index.md
-  - Un notebook jupyter : Notebook.ipynb
-  3.5_Tableau Python Binaire.ipynb
-  Algorithmique-Complexite.ipynb
-  BBCmicrobit-Un-BN-Pour-MicroPython(1)(1).ipynb
+  - Un notebook jupyter : Notebook.ipynb, 3.5_Tableau Python Binaire.ipynb, Algorithmique-Complexite.ipynb, BBCmicrobit-Un-BN-Pour-MicroPython(1)(1).ipynb
   Fonction Macéo Quéran.ipynb
   Hexadecimal-Autre_BN_pour_coder 3.ipynb
   IHM_Web_Dynamique.ipynb
