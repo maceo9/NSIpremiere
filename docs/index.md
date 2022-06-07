@@ -2,7 +2,7 @@ Ceci est un repertoire où vous pourrez trouver tous les notebooks effectuer dur
 
 > Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
 
-# Les notebooks :
+# Les notebooks disponible sur le serveur 10.1.3.50 :
 
 - [Algorithmique-Complexité](http://10.1.3.50/user/alan/notebooks/Algorithmique-Complexite.ipynb)
 - [Algorithmique-Tri](http://10.1.3.50/user/alan/notebooks/Algorithmique-Tri.ipynb)
@@ -24,10 +24,5 @@ Ceci est un repertoire où vous pourrez trouver tous les notebooks effectuer dur
 
 ## Une image :
 ![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
-
-## Une liste :
-- Toto ;
-- Titi ;
-- Tata...
 
 > Libre à vous de personaliser ce site avec l'aide de ce [tutoriel pour MkDocs](https://github.com/ericECmorlaix/adn-Tutoriel_site_web)...
