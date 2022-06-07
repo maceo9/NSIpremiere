@@ -1,19 +1,19 @@
 # Fichier de configuration du site à personnaliser
 ### Configuration minimale
-site_name: Base MkDocs Material # Nom du site <70 caractères, apparait dans l'onglet du navigateur 
-site_url: https://ericecmorlaix.github.io/base_mkdocs_material/ # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/
+site_name: NSI première # Nom du site <70 caractères, apparait dans l'onglet du navigateur 
+site_url: https://ericecmorlaix.github.io/NSI_première/ # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/
 
 ### Configuration du dépôt
 # Ajoute en haut à droite de chaque page du site, icône, nom et lien vers le dépot GitHub du projet.
-repo_url: https://github.com/ericECmorlaix/base_mkdocs_material
-repo_name: 'base_mkdocs_material' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
+repo_url: https://github.com/maceo9/base_mkdocs_material
+repo_name: 'NSIpremière' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
 edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` jusqu'au répertoire `docs` ;
 # Ce qui permet avec MkDocs-Material d'ajouter un bouton (crayon) d'édition du code source.md d'une page du site depuis le navigateur
 # (edit => édition avec connexion | blob, tree => lecture anonyme)
 
 ### Configuration de métadonnées
 # Métadonnées de description <300 caratères, et d'auteur pour toutes les pages du site 
-site_description: Exemple de site de base pour MkDocs avec le thème Material à personaliser
+site_description: Site pour repertorier tous les notebooks utilisés durant cet année de première
 site_author: "Eric MADEC"
 
 ### Configuration de la stucture de navigation
@@ -23,8 +23,26 @@ docs_dir: docs
 nav: 
   - La page d'accueil : index.md
   - Un notebook jupyter : Notebook.ipynb
-  # Référencer vos autres pages ci-dessus...
-
+  3.5_Tableau Python Binaire.ipynb
+  Algorithmique-Complexite.ipynb
+  BBCmicrobit-Un-BN-Pour-MicroPython(1)(1).ipynb
+  Fonction Macéo Quéran.ipynb
+  Hexadecimal-Autre_BN_pour_coder 3.ipynb
+  IHM_Web_Dynamique.ipynb
+  IHM_Web_Statique(1).ipynb
+  Les_tableaux (1).ipynb
+  Les_types_construits.ipynb
+  Logique_Booleenne-Copy1.ipynb
+  Network-Un_BN_pour_la_communication_en_reseau (1).ipynb
+  OS.ipynb
+  Programmation-Python3-Quelques_bases.ipynb
+  Simulation_avec_Filius 2.ipynb
+  TP_matrices 2.ipynb
+  Terminal-Un_BN_pour_la_ligne_de_commande.ipynb
+  boole.ipynb
+  decouverte-notebook.ipynb
+  exercices python.ipynb
+  
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
 theme:
     name: material # autres thèmes : https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
