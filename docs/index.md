@@ -1,9 +1,9 @@
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
+Ceci est un repertoire où vous pourrez trouver tous les notebooks effectuer durant mon année de première.
 
 > Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
 
-# Voici un titre de niveau 1
-## Et voici un titre de niveau 2
+# Les notebooks :
+
 Ceci est un paragraphe.  
 Avec un retour à la ligne sans saut de ligne.
 
