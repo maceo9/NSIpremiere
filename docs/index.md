@@ -10,7 +10,7 @@ Avec un retour à la ligne sans saut de ligne.
 Et avec un retour à la ligne avec saut de ligne.
 
 ## Un lien :
-Source pour [algo]([https://squidfunk.github.io/mkdocs-material/](http://10.1.3.50/user/alan/notebooks/Algorithmique-Complexite.ipynb)])
+Source pour [algo](http://10.1.3.50/user/alan/notebooks/Algorithmique-Complexite.ipynb)
 
 ## Une image :
 ![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
