@@ -22,7 +22,26 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - La page d'accueil : index.md
-  - Un notebook jupyter : Notebook.ipynb, 3.5_Tableau Python Binaire.ipynb, Algorithmique-Complexite.ipynb, BBCmicrobit-Un-BN-Pour-MicroPython(1)(1).ipynb, Fonction Macéo Quéran.ipynb, Hexadecimal-Autre_BN_pour_coder 3.ipynb, IHM_Web_Dynamique.ipynb, IHM_Web_Statique(1).ipynb; Les_tableaux (1).ipynb, Les_types_construits.ipynb, Logique_Booleenne-Copy1.ipynb, Network-Un_BN_pour_la_communication_en_reseau (1).ipynb, OS.ipynb, Programmation-Python3-Quelques_bases.ipynb, Simulation_avec_Filius 2.ipynb, TP_matrices 2.ipynb, Terminal-Un_BN_pour_la_ligne_de_commande.ipynb, boole.ipynb, decouverte-notebook.ipynb, exercices python.ipynb
+  - Un notebook jupyter : Notebook.ipynb
+  - Un notebook jupyter : 3.5_Tableau Python Binaire.ipynb
+  - Un notebook jupyter : Algorithmique-Complexite.ipynb
+  - Un notebook jupyter : BBCmicrobit-Un-BN-Pour-MicroPython(1)(1).ipynb
+  - Un notebook jupyter : Fonction Macéo Quéran.ipynb
+  - Un notebook jupyter : Hexadecimal-Autre_BN_pour_coder 3.ipynb
+  - Un notebook jupyter : IHM_Web_Dynamique.ipynb
+  - Un notebook jupyter : IHM_Web_Statique(1).ipynb
+  - Un notebook jupyter : Les_tableaux (1).ipynb
+  - Un notebook jupyter : Les_types_construits.ipynb
+  - Un notebook jupyter : Logique_Booleenne-Copy1.ipynb
+  - Un notebook jupyter : Network-Un_BN_pour_la_communication_en_reseau (1).ipynb
+  - Un notebook jupyter : OS.ipynb
+  - Un notebook jupyter : Programmation-Python3-Quelques_bases.ipynb
+  - Un notebook jupyter : Simulation_avec_Filius 2.ipynb
+  - Un notebook jupyter : TP_matrices 2.ipynb
+  - Un notebook jupyter : Terminal-Un_BN_pour_la_ligne_de_commande.ipynb
+  - Un notebook jupyter : boole.ipynb
+  - Un notebook jupyter : decouverte-notebook.ipynb
+  - Un notebook jupyter : exercices python.ipynb
   
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
 theme:
