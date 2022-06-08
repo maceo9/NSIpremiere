@@ -23,25 +23,24 @@ docs_dir: docs
 nav: 
   - La page d'accueil : index.md
   - Un notebook jupyter : Notebook.ipynb
-  - Un notebook jupyter sur les tableaux binaire : 3.5_Tableau Python Binaire.ipynb
-  - Un notebook jupyter sur l'algorithmique : Algorithmique-Complexite.ipynb
-  - Un notebook jupyter sur les cartes BBC : BBCmicrobit-Un-BN-Pour-MicroPython(1)(1).ipynb
-  - Un notebook jupyter sur les fonctions : Fonction Macéo Quéran.ipynb
-  - Un notebook jupyter sur l'hexadecimal : Hexadecimal-Autre_BN_pour_coder 3.ipynb
-  - Un notebook jupyter sur le Web dynamique : IHM_Web_Dynamique.ipynb
-  - Un notebook jupyter sur le Web statique : IHM_Web_Statique(1).ipynb
-  - Un notebook jupyter sur les tableaux : Les_tableaux (1).ipynb
-  - Un notebook jupyter sur les types construits : Les_types_construits.ipynb
-  - Un notebook jupyter sur la logique booléenne : Logique_Booleenne-Copy1.ipynb
-  - Un notebook jupyter sur les reseaux : Network-Un_BN_pour_la_communication_en_reseau (1).ipynb
-  - Un notebook jupyter sur les differents OS : OS.ipynb
-  - Un notebook jupyter sur les bases de programmation : Programmation-Python3-Quelques_bases.ipynb
-  - Un notebook jupyter sur la simulation avec Filius : Simulation_avec_Filius 2.ipynb
-  - Un notebook jupyter sur les matrices : TP_matrices 2.ipynb
-  - Un notebook jupyter sur le terminal : Terminal-Un_BN_pour_la_ligne_de_commande.ipynb
-  - Un notebook jupyter sur les booléens : boole.ipynb
-  - Un notebook jupyter sur la decouverte des notebooks : decouverte-notebook.ipynb
-  - Un notebook jupyter sur les revisions en python : exercices python.ipynb
+  - binaire : 3.5_Tableau Python Binaire.ipynb
+  - l'algorithmique : Algorithmique-Complexite.ipynb
+  - cartes BBC : BBCmicrobit-Un-BN-Pour-MicroPython(1)(1).ipynb
+  - fonctions : Fonction Macéo Quéran.ipynb
+  - l'hexadecimal : Hexadecimal-Autre_BN_pour_coder 3.ipynb
+  - Web dynamique : IHM_Web_Dynamique.ipynb
+  - Web statique : IHM_Web_Statique(1).ipynb
+  - tableaux : Les_tableaux (1).ipynb
+  - types construits : Les_types_construits.ipynb
+  - logique booléenne : Logique_Booleenne-Copy1.ipynb
+  - reseaux : Network-Un_BN_pour_la_communication_en_reseau (1).ipynb
+  - OS : OS.ipynb
+  - programmation : Programmation-Python3-Quelques_bases.ipynb
+  - Filius : Simulation_avec_Filius 2.ipynb
+  - matrices : TP_matrices 2.ipynb
+  - terminal : Terminal-Un_BN_pour_la_ligne_de_commande.ipynb
+  - les booléens : boole.ipynb
+  - python : exercices python.ipynb
   
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
 theme:
